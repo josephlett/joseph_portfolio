@@ -1,4 +1,4 @@
-# I am joseph Lett 10 years experience in the data managment field tr Introduction: Make sure to state the purpose of the case study. This includes what the scenario is and an explanation on how it relates to a real-world obstacle. Feel free to note any assumptions or theories you might have depending on the information provided. 
+### I am joseph Lett 10 years experience in the data managment field tr Introduction: Make sure to state the purpose of the case study. This includes what the scenario is and an explanation on how it relates to a real-world obstacle. Feel free to note any assumptions or theories you might have depending on the information provided. 
 
 Problems: You need to identify what the major problems are, explain how you have analyzed the problem, and present any facts you are using to support your findings.
 
